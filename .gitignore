@@ -1,0 +1,69 @@
+# =========================
+# Climate Twin - Git Ignore
+# =========================
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
+.cdsapirc
+
+# =========================
+# Climate datasets
+# =========================
+
+# ERA5
+data/era5/
+*.nc
+
+# IMD raw data
+data/imd/
+*.GRD
+*.grd
+
+# MOSDAC raw data
+data/mosdac/
+data/interim/mosdac/
+
+# Processed / generated climate data
+data/processed/
+data/processed_daily/
+
+# Temporary/intermediate data
+data/interim/
+
+# Large raster files
+*.tif
+*.tiff
+
+# =========================
+# Generated outputs
+# =========================
+
+outputs/
+
+# =========================
+# QGIS temporary/project files
+# =========================
+
+*.qgz~
+*.qgs~
+*.aux.xml
+*.ovr
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
