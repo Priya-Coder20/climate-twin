@@ -4,10 +4,7 @@ import xarray as xr
 import geopandas as gpd
 from shapely.geometry import Point
 
-# --------------------------------------------------
 # Paths
-# --------------------------------------------------
-
 TEMP_INPUT = r"data\processed_daily\imd\imd_temperature_daily.nc"
 RAIN_INPUT = r"data\processed_daily\imd\imd_rainfall_daily.nc"
 
@@ -18,10 +15,8 @@ OUTPUT_DIR = r"data\processed_daily\imd_maharashtra"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-# --------------------------------------------------
-# Load Maharashtra boundary
-# --------------------------------------------------
 
+# Load Maharashtra boundary
 print("Loading Maharashtra boundary...")
 
 maharashtra = gpd.read_file(BOUNDARY)
@@ -36,10 +31,7 @@ print("Longitude:", minx, "to", maxx)
 print("Latitude :", miny, "to", maxy)
 
 
-# --------------------------------------------------
 # Create polygon mask
-# --------------------------------------------------
-
 def create_mask(latitudes, longitudes):
 
     mask = np.zeros(
@@ -58,10 +50,7 @@ def create_mask(latitudes, longitudes):
     return mask
 
 
-# --------------------------------------------------
 # Process temperature
-# --------------------------------------------------
-
 print()
 print("Processing IMD temperature...")
 
@@ -103,11 +92,7 @@ print(temp_output)
 
 temp_ds.close()
 
-
-# --------------------------------------------------
 # Process rainfall
-# --------------------------------------------------
-
 print()
 print("Processing IMD rainfall...")
 
@@ -149,12 +134,6 @@ print(rain_output)
 
 rain_ds.close()
 
-
-# --------------------------------------------------
 # Finished
-# --------------------------------------------------
-
 print()
-print("========================================")
 print("MAHARASHTRA IMD SUBSETTING COMPLETED")
-print("========================================")

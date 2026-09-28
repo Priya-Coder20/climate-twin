@@ -1,8 +1,12 @@
 import os
 import glob
+
 import numpy as np
 import xarray as xr
 import rasterio
+import geopandas as gpd
+from shapely.geometry import Point
+
 
 PROJECT = r"C:\Users\HP\climate-twin"
 
@@ -15,13 +19,15 @@ ERA5_FILE = os.path.join(
 )
 
 IMD_TEMP_FILE = os.path.join(
-    PROJECT,
-    r"data\processed_daily\imd_maharashtra\imd_temperature_maharashtra_daily.nc"
+    PROJECT, r"data\processed_daily\imd\imd_temperature_daily.nc"
 )
 
 IMD_RAIN_FILE = os.path.join(
-    PROJECT,
-    r"data\processed_daily\imd_maharashtra\imd_rainfall_maharashtra_daily.nc"
+    PROJECT, r"data\processed_daily\imd\imd_rainfall_daily.nc"
+)
+
+BOUNDARY_FILE = os.path.join(
+    PROJECT, r"data\processed_daily\maharashtra_boundary_wgs84.shp"
 )
 
 OUTPUT_DIR = os.path.join(
@@ -29,15 +35,24 @@ OUTPUT_DIR = os.path.join(
 )
 
 OUTPUT_FILE = os.path.join(
-    OUTPUT_DIR, "common_daily.nc"
+    OUTPUT_DIR, "common_daily_v2.nc"
 )
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+
+# Load datasets
 era5 = xr.open_dataset(ERA5_FILE)
 imd_temp = xr.open_dataset(IMD_TEMP_FILE)
 imd_rain = xr.open_dataset(IMD_RAIN_FILE)
 
+
+# Maharashtra boundary
+maharashtra = gpd.read_file(BOUNDARY_FILE).to_crs("EPSG:4326")
+geometry = maharashtra.geometry.union_all()
+
+
+# Find common dates
 mosdac_folders = sorted(
     glob.glob(os.path.join(MOSDAC_DIR, "*"))
 )
@@ -46,35 +61,26 @@ mosdac_dates = []
 
 for folder in mosdac_folders:
     if os.path.isdir(folder):
-        imr_file = os.path.join(folder, "imr.tif")
-        pet_file = os.path.join(folder, "pet_aligned.tif")
+        if (
+            os.path.exists(os.path.join(folder, "imr.tif"))
+            and os.path.exists(os.path.join(folder, "pet_aligned.tif"))
+        ):
+            mosdac_dates.append(os.path.basename(folder))
 
-        if os.path.exists(imr_file) and os.path.exists(pet_file):
-            mosdac_dates.append(
-                os.path.basename(folder)
-            )
-
-era5_dates = set(
-    str(x)[:10] for x in era5.valid_time.values
-)
-
-imd_dates = set(
-    str(x)[:10] for x in imd_temp.time.values
-)
+era5_dates = set(str(x)[:10] for x in era5.valid_time.values)
+imd_dates = set(str(x)[:10] for x in imd_temp.time.values)
 
 common_dates = sorted(
-    set(mosdac_dates) &
-    era5_dates &
-    imd_dates
+    set(mosdac_dates) & era5_dates & imd_dates
 )
 
 if not common_dates:
     raise ValueError("No common dates found.")
 
+
+# Target grid from MOSDAC
 first_imr = os.path.join(
-    MOSDAC_DIR,
-    common_dates[0],
-    "imr.tif"
+    MOSDAC_DIR, common_dates[0], "imr.tif"
 )
 
 with rasterio.open(first_imr) as src:
@@ -84,17 +90,42 @@ with rasterio.open(first_imr) as src:
     bounds = src.bounds
 
 target_lon = (
-    bounds.left +
-    (np.arange(width) + 0.5) * transform.a
+    bounds.left
+    + (np.arange(width) + 0.5) * transform.a
 )
 
 target_lat = (
-    bounds.top +
-    (np.arange(height) + 0.5) * transform.e
+    bounds.top
+    + (np.arange(height) + 0.5) * transform.e
 )
 
 target_lat = target_lat[::-1]
 
+
+# Maharashtra mask on final grid
+mask = np.zeros(
+    (len(target_lat), len(target_lon)),
+    dtype=bool
+)
+
+for i, lat in enumerate(target_lat):
+    for j, lon in enumerate(target_lon):
+        point = Point(float(lon), float(lat))
+
+        if geometry.contains(point) or geometry.touches(point):
+            mask[i, j] = True
+
+mask_da = xr.DataArray(
+    mask,
+    coords={
+        "latitude": target_lat,
+        "longitude": target_lon
+    },
+    dims=["latitude", "longitude"]
+)
+
+
+# Process daily data
 data_arrays = []
 
 for date in common_dates:
@@ -116,9 +147,9 @@ for date in common_dates:
     imr = np.flipud(imr)
     pet = np.flipud(pet)
 
-    era5_day = era5.sel(
-        valid_time=date
-    )
+
+    # ERA5
+    era5_day = era5.sel(valid_time=date)
 
     era5_day = era5_day.interp(
         latitude=target_lat,
@@ -126,9 +157,9 @@ for date in common_dates:
         method="linear"
     )
 
-    imd_temp_day = imd_temp.sel(
-        time=date
-    )
+
+    # IMD temperature
+    imd_temp_day = imd_temp.sel(time=date)
 
     imd_temp_day = imd_temp_day.interp(
         latitude=target_lat,
@@ -136,9 +167,9 @@ for date in common_dates:
         method="linear"
     )
 
-    imd_rain_day = imd_rain.sel(
-        time=date
-    )
+
+    # IMD rainfall
+    imd_rain_day = imd_rain.sel(time=date)
 
     imd_rain_day = imd_rain_day.interp(
         latitude=target_lat,
@@ -146,6 +177,8 @@ for date in common_dates:
         method="linear"
     )
 
+
+    # Daily dataset
     daily = xr.Dataset(
         {
             "imr": (
@@ -198,11 +231,16 @@ for date in common_dates:
                 imd_rain_day.rainfall.values
             )
         },
+
         coords={
             "latitude": target_lat,
             "longitude": target_lon
         }
     )
+
+
+    # Apply Maharashtra mask AFTER regridding
+    daily = daily.where(mask_da)
 
     daily = daily.expand_dims(
         time=[np.datetime64(date)]
@@ -210,16 +248,22 @@ for date in common_dates:
 
     data_arrays.append(daily)
 
+
+# Combine
 cnn_dataset = xr.concat(
     data_arrays,
     dim="time"
 )
 
+
+# Save
 cnn_dataset.to_netcdf(OUTPUT_FILE)
+
 
 era5.close()
 imd_temp.close()
 imd_rain.close()
+
 
 print("CNN dataset created.")
 print("Days:", cnn_dataset.sizes["time"])

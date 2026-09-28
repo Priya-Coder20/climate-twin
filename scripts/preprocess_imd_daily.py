@@ -1,3 +1,6 @@
+#it takes the raw .GRD binary files and turns them into structured daily , geospatial netcdf files 
+#raw binary reading -> validation -> reshaping -> missing-value cleaning -> date assignment -> spatial coordinates -> 5-year concatenation -> NetCDF creation
+
 import os
 import numpy as np
 import xarray as xr
@@ -7,10 +10,7 @@ OUTPUT_DIR = r"data\processed_daily\imd"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# --------------------------------------------------
 # Official IMD grid definitions
-# --------------------------------------------------
-
 TEMP_LAT = np.arange(7.5, 38.5, 1.0)
 TEMP_LON = np.arange(67.5, 98.5, 1.0)
 
@@ -92,10 +92,7 @@ def read_rainfall(path, year):
     )
 
 
-# --------------------------------------------------
 # MAXIMUM AND MINIMUM TEMPERATURE
-# --------------------------------------------------
-
 max_temperature = []
 min_temperature = []
 
@@ -148,10 +145,7 @@ temperature_output = os.path.join(
 temperature_ds.to_netcdf(temperature_output)
 
 
-# --------------------------------------------------
 # RAINFALL
-# --------------------------------------------------
-
 rainfall = []
 
 for year in range(2021, 2026):
@@ -188,8 +182,7 @@ rainfall_ds.to_netcdf(rainfall_output)
 
 
 print()
-print("========================================")
+
 print("IMD DAILY PREPROCESSING COMPLETED")
-print("========================================")
 print("Temperature:", temperature_output)
 print("Rainfall:", rainfall_output)

@@ -11,10 +11,7 @@ from rasterio.mask import mask
 from rasterio.warp import reproject, Resampling
 
 
-# ============================================================
 # PROJECT PATHS
-# ============================================================
-
 PROJECT = r"C:\Users\HP\climate-twin"
 
 IMR_DIR = os.path.join(PROJECT, r"data\mosdac\imr")
@@ -33,17 +30,11 @@ OUTPUT_DIR = os.path.join(
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-# ============================================================
 # SETTINGS
-# ============================================================
-
 MAX_DAYS = None
 
 
-# ============================================================
 # EXTRACT DATE FROM MOSDAC FILENAME
-# ============================================================
-
 def extract_date(filename):
 
     match = re.search(
@@ -59,11 +50,7 @@ def extract_date(filename):
         "%d%b%Y"
     ).strftime("%Y-%m-%d")
 
-
-# ============================================================
 # FIND IMR AND PET FILES
-# ============================================================
-
 imr_files = glob.glob(
     os.path.join(IMR_DIR, "*.tif")
 )
@@ -93,10 +80,7 @@ for file in pet_files:
         pet_by_date[date] = file
 
 
-# ============================================================
 # FIND COMMON DATES
-# ============================================================
-
 common_dates = sorted(
     set(imr_by_date.keys()) &
     set(pet_by_date.keys())
@@ -105,17 +89,11 @@ common_dates = sorted(
 dates_to_process = common_dates if MAX_DAYS is None else common_dates[:MAX_DAYS]
 
 
-# ============================================================
 # LOAD MAHARASHTRA BOUNDARY
-# ============================================================
-
 boundary = gpd.read_file(BOUNDARY_FILE)
 
 
-# ============================================================
 # PROCESS EACH DAY
-# ============================================================
-
 for date in dates_to_process:
 
     imr_file = imr_by_date[date]
@@ -131,10 +109,8 @@ for date in dates_to_process:
         exist_ok=True
     )
 
-    # --------------------------------------------------------
+    
     # READ AND CLIP IMR
-    # --------------------------------------------------------
-
     with rasterio.open(imr_file) as imr:
 
         boundary_imr = boundary.to_crs(imr.crs)
@@ -160,10 +136,7 @@ for date in dates_to_process:
             compress="deflate"
         )
 
-    # --------------------------------------------------------
     # REPROJECT AND RESAMPLE PET
-    # --------------------------------------------------------
-
     with rasterio.open(pet_file) as pet:
 
         pet_data = pet.read(1)
@@ -198,10 +171,8 @@ for date in dates_to_process:
             pet_aligned
         ).astype(np.float32)
 
-    # --------------------------------------------------------
-    # SAVE IMR
-    # --------------------------------------------------------
 
+    # SAVE IMR
     imr_output = os.path.join(
         output_folder,
         "imr.tif"
@@ -218,10 +189,7 @@ for date in dates_to_process:
             1
         )
 
-    # --------------------------------------------------------
     # SAVE PET
-    # --------------------------------------------------------
-
     pet_output = os.path.join(
         output_folder,
         "pet_aligned.tif"

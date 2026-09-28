@@ -9,10 +9,7 @@ import geopandas as gpd
 from rasterio.mask import mask
 
 
-# ============================================================
 # PATHS
-# ============================================================
-
 PROJECT = r"C:\Users\HP\climate-twin"
 
 LST_DIR = os.path.join(
@@ -33,10 +30,7 @@ OUTPUT_DIR = os.path.join(
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-# ============================================================
 # EXTRACT DATE
-# ============================================================
-
 def extract_date(filename):
 
     match = re.search(
@@ -53,10 +47,7 @@ def extract_date(filename):
     ).strftime("%Y-%m-%d")
 
 
-# ============================================================
 # FIND LST FILES
-# ============================================================
-
 lst_files = glob.glob(
     os.path.join(LST_DIR, "*.tif")
 )
@@ -64,19 +55,14 @@ lst_files = glob.glob(
 print("LST files found:", len(lst_files))
 
 
-# ============================================================
-# LOAD MAHARASHTRA BOUNDARY
-# ============================================================
 
+# LOAD MAHARASHTRA BOUNDARY
 boundary = gpd.read_file(
     BOUNDARY_FILE
 )
 
 
-# ============================================================
 # GROUP FILES BY DATE
-# ============================================================
-
 files_by_date = {}
 
 for file in lst_files:
@@ -94,10 +80,7 @@ for file in lst_files:
 print("Unique LST dates:", len(files_by_date))
 
 
-# ============================================================
 # PROCESS EACH DATE
-# ============================================================
-
 for date in sorted(files_by_date):
 
     files = files_by_date[date]
@@ -140,10 +123,7 @@ for date in sorted(files_by_date):
             output_profile = src.profile.copy()
 
 
-    # --------------------------------------------------------
     # Combine observations from same date
-    # --------------------------------------------------------
-
     stacked = np.stack(
         daily_arrays,
         axis=0
@@ -155,10 +135,7 @@ for date in sorted(files_by_date):
     ).astype(np.float32)
 
 
-    # --------------------------------------------------------
     # Save
-    # --------------------------------------------------------
-
     output_profile.update(
         driver="GTiff",
         height=daily_lst.shape[0],
@@ -193,14 +170,9 @@ for date in sorted(files_by_date):
         )
 
 
-# ============================================================
 # COMPLETE
-# ============================================================
-
 print()
-print("========================================")
 print("MOSDAC LST PREPROCESSING COMPLETED")
-print("========================================")
 print("Input files:", len(lst_files))
 print("Unique dates:", len(files_by_date))
 print("Output:", OUTPUT_DIR)

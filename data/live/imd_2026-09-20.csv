@@ -1,0 +1,1001 @@
+station,name,latitude,longitude,phenomenon_time,report_time,variable,value,units
+0-20000-0-42867,past_weather2,21.1,79.05,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42867,total_precipitation_or_total_water_equivalent,21.1,79.05,2026-09-19T23:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42867,wind_direction,21.1,79.05,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-42867,wind_speed,21.1,79.05,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42933,pressure_reduced_to_mean_sea_level,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1009.4,hPa
+0-20000-0-42933,24hour_pressure_change,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-0.3,hPa
+0-20000-0-42933,air_temperature,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,24.2,Celsius
+0-20000-0-42933,dewpoint_temperature,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,22.5,Celsius
+0-20000-0-42933,horizontal_visibility,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42933,cloud_cover_total,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,0.0,%
+0-20000-0-42933,height_of_base_of_cloud,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,0.0,m
+0-20000-0-42933,present_weather,20.7,77.03,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42933,past_weather1,20.7,77.03,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42933,past_weather2,20.7,77.03,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42933,total_precipitation_or_total_water_equivalent,20.7,77.03,2026-09-19T23:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42933,wind_direction,20.7,77.03,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-42933,wind_speed,20.7,77.03,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42921,pressure_reduced_to_mean_sea_level,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1011.0,hPa
+0-20000-0-42921,24hour_pressure_change,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,0.0,hPa
+0-20000-0-42921,air_temperature,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,22.8,Celsius
+0-20000-0-42921,dewpoint_temperature,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,21.6,Celsius
+0-20000-0-42921,horizontal_visibility,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42921,cloud_cover_total,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-42921,cloud_amount,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42921,height_of_base_of_cloud,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,540.0,m
+0-20000-0-42921,cloud_type,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,cloud_type,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,cloud_type,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,cloud_amount,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42921,cloud_type,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,height_of_base_of_cloud,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,540.0,m
+0-20000-0-42921,cloud_amount,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42921,cloud_type,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,height_of_base_of_cloud,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,3000.0,m
+0-20000-0-42921,cloud_type,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,present_weather,20.0,73.78,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42921,past_weather1,20.0,73.78,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42921,past_weather2,20.0,73.78,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42921,total_precipitation_or_total_water_equivalent,20.0,73.78,2026-09-19T23:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42921,wind_direction,20.0,73.78,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-42921,wind_speed,20.0,73.78,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43121,wind_speed,17.35,76.85,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43220,wind_speed,15.9,80.46,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43014,non_coordinate_pressure,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,non_coordinate_pressure,944.7,hPa
+0-20000-0-43014,pressure_reduced_to_mean_sea_level,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1008.9,hPa
+0-20000-0-43014,24hour_pressure_change,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-0.3,hPa
+0-20000-0-43014,air_temperature,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,24.0,Celsius
+0-20000-0-43014,dewpoint_temperature,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,22.0,Celsius
+0-20000-0-43014,horizontal_visibility,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43014,cloud_cover_total,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,50.0,%
+0-20000-0-43014,cloud_amount,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43014,height_of_base_of_cloud,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43014,cloud_type,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43014,cloud_type,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43014,cloud_type,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43014,cloud_amount,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43014,cloud_type,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43014,height_of_base_of_cloud,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43014,present_weather,19.85,75.4,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43003,pressure_reduced_to_mean_sea_level,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1009.8,hPa
+0-20000-0-43014,past_weather1,19.85,75.4,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43003,24hour_pressure_change,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-0.6,hPa
+0-20000-0-43014,past_weather2,19.85,75.4,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43003,air_temperature,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,26.2,Celsius
+0-20000-0-43014,total_precipitation_or_total_water_equivalent,19.85,75.4,2026-09-19T23:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43003,dewpoint_temperature,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,25.1,Celsius
+0-20000-0-43014,wind_direction,19.85,75.4,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-43003,horizontal_visibility,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-43014,wind_speed,19.85,75.4,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43003,cloud_cover_total,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,37.0,%
+0-20000-0-43003,cloud_amount,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43003,height_of_base_of_cloud,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,cloud_amount,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43110,pressure_reduced_to_mean_sea_level,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1010.2,hPa
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43110,24hour_pressure_change,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-1.0,hPa
+0-20000-0-43003,height_of_base_of_cloud,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43110,air_temperature,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,25.9,Celsius
+0-20000-0-43003,cloud_amount,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43110,dewpoint_temperature,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,24.4,Celsius
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43110,horizontal_visibility,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43110,cloud_cover_total,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-43003,height_of_base_of_cloud,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,750.0,m
+0-20000-0-43063,wind_speed,18.53,73.85,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43110,cloud_amount,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43003,present_weather,19.11,72.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43003,past_weather1,19.11,72.85,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43110,height_of_base_of_cloud,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,540.0,m
+0-20000-0-43003,past_weather2,19.11,72.85,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43110,cloud_type,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,total_precipitation_or_total_water_equivalent,19.11,72.85,2026-09-19T23:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43110,cloud_type,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,wind_direction,19.11,72.85,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-43110,cloud_type,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,wind_speed,19.11,72.85,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43110,cloud_amount,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43117,pressure_reduced_to_mean_sea_level,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1009.8,hPa
+0-20000-0-43110,cloud_type,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43117,24hour_pressure_change,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-0.8,hPa
+0-20000-0-43110,height_of_base_of_cloud,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,540.0,m
+0-20000-0-43117,air_temperature,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,23.4,Celsius
+0-20000-0-43110,cloud_amount,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43117,dewpoint_temperature,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,20.7,Celsius
+0-20000-0-43110,cloud_type,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43117,horizontal_visibility,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43110,height_of_base_of_cloud,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,2400.0,m
+0-20000-0-43117,cloud_cover_total,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-43110,present_weather,16.98,73.33,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43117,cloud_amount,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43110,past_weather1,16.98,73.33,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43117,height_of_base_of_cloud,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43110,past_weather2,16.98,73.33,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43117,cloud_type,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43110,total_precipitation_or_total_water_equivalent,16.98,73.33,2026-09-19T23:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43117,cloud_type,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43110,wind_direction,16.98,73.33,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,360.0,deg
+0-20000-0-43117,cloud_type,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43110,wind_speed,16.98,73.33,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43117,present_weather,17.66,75.9,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43117,past_weather1,17.66,75.9,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43117,past_weather2,17.66,75.9,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43117,wind_direction,17.66,75.9,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,50.0,deg
+0-20000-0-43117,wind_speed,17.66,75.9,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.5,m/s
+0-20000-0-43220,non_coordinate_pressure,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,non_coordinate_pressure,1006.6,hPa
+0-20000-0-43220,pressure_reduced_to_mean_sea_level,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1007.3,hPa
+0-20000-0-43220,24hour_pressure_change,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-0.9,hPa
+0-20000-0-43220,air_temperature,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,26.6,Celsius
+0-20000-0-43220,dewpoint_temperature,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,24.9,Celsius
+0-20000-0-43220,horizontal_visibility,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43220,cloud_cover_total,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43220,cloud_amount,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43220,height_of_base_of_cloud,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,present_weather,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43220,past_weather1,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43220,past_weather2,15.9,80.46667,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43220,wind_direction,15.9,80.46667,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-43220,wind_speed,15.9,80.46667,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43121,non_coordinate_pressure,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,non_coordinate_pressure,958.3,hPa
+0-20000-0-43121,pressure_reduced_to_mean_sea_level,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1009.3,hPa
+0-20000-0-43121,24hour_pressure_change,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-0.2,hPa
+0-20000-0-43121,air_temperature,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,24.0,Celsius
+0-20000-0-43121,dewpoint_temperature,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,23.7,Celsius
+0-20000-0-43121,horizontal_visibility,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43121,cloud_cover_total,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,100.0,%
+0-20000-0-43121,cloud_amount,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43121,height_of_base_of_cloud,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,200.0,m
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43121,present_weather,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43121,past_weather1,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43121,past_weather2,17.35,76.85,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43121,wind_direction,17.35,76.85,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,50.0,deg
+0-20000-0-43121,wind_speed,17.35,76.85,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43086,non_coordinate_pressure,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,non_coordinate_pressure,990.4,hPa
+0-20000-0-43086,pressure_reduced_to_mean_sea_level,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1008.0,hPa
+0-20000-0-43086,24hour_pressure_change,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,-0.1,hPa
+0-20000-0-43086,air_temperature,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,26.2,Celsius
+0-20000-0-43086,dewpoint_temperature,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,24.2,Celsius
+0-20000-0-43086,horizontal_visibility,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43086,cloud_cover_total,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,37.0,%
+0-20000-0-43086,cloud_amount,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43086,height_of_base_of_cloud,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43086,cloud_type,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43086,cloud_type,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43086,cloud_type,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43086,present_weather,18.76,79.43,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43086,past_weather1,18.76,79.43,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43086,past_weather2,18.76,79.43,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43086,total_precipitation_or_total_water_equivalent,18.76,79.43,2026-09-19T23:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43086,wind_direction,18.76,79.43,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-43086,wind_speed,18.76,79.43,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43213,non_coordinate_pressure,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,non_coordinate_pressure,978.2,hPa
+0-20000-0-43213,pressure_reduced_to_mean_sea_level,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,pressure_reduced_to_mean_sea_level,1009.7,hPa
+0-20000-0-43213,24hour_pressure_change,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,24hour_pressure_change,0.2,hPa
+0-20000-0-43213,air_temperature,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,air_temperature,26.2,Celsius
+0-20000-0-43213,dewpoint_temperature,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,dewpoint_temperature,24.4,Celsius
+0-20000-0-43213,horizontal_visibility,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-43213,cloud_cover_total,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_cover_total,100.0,%
+0-20000-0-43213,cloud_amount,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43213,height_of_base_of_cloud,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43213,cloud_type,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43213,cloud_type,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43213,cloud_type,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43213,present_weather,15.8,78.06,2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43213,past_weather1,15.8,78.06,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43213,past_weather2,15.8,78.06,2026-09-19T18:00:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43213,wind_direction,15.8,78.06,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_direction,0.0,deg
+0-20000-0-43213,wind_speed,15.8,78.06,2026-09-19T23:50:00Z/2026-09-20T00:00:00Z,2026-09-20T00:00:00Z,wind_speed,0.5,m/s
+0-20000-0-43182,non_coordinate_pressure,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,non_coordinate_pressure,1004.7,hPa
+0-20000-0-43182,pressure_reduced_to_mean_sea_level,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1010.6,hPa
+0-20000-0-43182,24hour_pressure_change,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.8,hPa
+0-20000-0-43182,air_temperature,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,27.2,Celsius
+0-20000-0-43182,dewpoint_temperature,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.6,Celsius
+0-20000-0-43182,horizontal_visibility,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43182,cloud_cover_total,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,63.0,%
+0-20000-0-43182,cloud_amount,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43182,height_of_base_of_cloud,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43182,cloud_type,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43182,cloud_type,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43182,cloud_type,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43182,present_weather,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43182,past_weather1,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43182,past_weather2,16.78333,80.28333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43182,wind_direction,16.78333,80.28333,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,0.0,deg
+0-20000-0-43182,wind_speed,16.78333,80.28333,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43182,maximum_temperature_at_height_and_over_period_specified,16.78333,80.28333,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,36.1,Celsius
+0-20000-0-43182,minimum_temperature_at_height_and_over_period_specified,16.78333,80.28333,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,24.8,Celsius
+0-20000-0-43182,maximum_temperature_at_height_and_over_period_specified,16.78333,80.28333,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,36.1,Celsius
+0-20000-0-43182,minimum_temperature_at_height_and_over_period_specified,16.78333,80.28333,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,24.8,Celsius
+0-20000-0-42921,pressure_reduced_to_mean_sea_level,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1012.2,hPa
+0-20000-0-42921,24hour_pressure_change,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,-0.3,hPa
+0-20000-0-42921,air_temperature,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,24.2,Celsius
+0-20000-0-42921,dewpoint_temperature,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,22.5,Celsius
+0-20000-0-42921,horizontal_visibility,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42921,cloud_cover_total,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,13.0,%
+0-20000-0-42921,cloud_amount,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42921,height_of_base_of_cloud,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42921,cloud_type,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,cloud_type,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,cloud_type,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,cloud_amount,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42921,cloud_type,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42921,height_of_base_of_cloud,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42921,present_weather,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42921,past_weather1,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42921,past_weather2,20.0,73.78333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42921,wind_direction,20.0,73.78333,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,0.0,deg
+0-20000-0-42921,wind_speed,20.0,73.78333,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42921,minimum_temperature_at_height_and_over_period_specified,20.0,73.78333,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,21.8,Celsius
+0-20000-0-42921,minimum_temperature_at_height_and_over_period_specified,20.0,73.78333,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,21.8,Celsius
+0-20000-0-43177,dewpoint_temperature,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.1,Celsius
+0-20000-0-43177,horizontal_visibility,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43177,cloud_cover_total,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,100.0,%
+0-20000-0-43177,cloud_amount,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43177,height_of_base_of_cloud,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43177,cloud_type,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43177,cloud_type,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43177,cloud_type,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43177,present_weather,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43177,past_weather1,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43177,past_weather2,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43177,wind_direction,16.55,79.55,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,230.0,deg
+0-20000-0-43177,wind_speed,16.55,79.55,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.5,m/s
+0-20000-0-43177,maximum_temperature_at_height_and_over_period_specified,16.55,79.55,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,36.2,Celsius
+0-20000-0-43177,minimum_temperature_at_height_and_over_period_specified,16.55,79.55,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,24.5,Celsius
+0-20000-0-43177,maximum_temperature_at_height_and_over_period_specified,16.55,79.55,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,36.2,Celsius
+0-20000-0-43177,minimum_temperature_at_height_and_over_period_specified,16.55,79.55,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,24.5,Celsius
+0-20000-0-43136,non_coordinate_pressure,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,non_coordinate_pressure,1004.9,hPa
+0-20000-0-43136,pressure_reduced_to_mean_sea_level,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1011.1,hPa
+0-20000-0-43136,24hour_pressure_change,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.3,hPa
+0-20000-0-43136,air_temperature,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,25.8,Celsius
+0-20000-0-43136,dewpoint_temperature,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.7,Celsius
+0-20000-0-43136,horizontal_visibility,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43136,cloud_cover_total,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,63.0,%
+0-20000-0-43136,cloud_amount,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43136,height_of_base_of_cloud,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43136,cloud_type,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43136,cloud_type,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43136,cloud_type,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43136,present_weather,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43136,past_weather1,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43136,past_weather2,17.66667,80.88333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43136,wind_direction,17.66667,80.88333,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,50.0,deg
+0-20000-0-43136,wind_speed,17.66667,80.88333,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.5,m/s
+0-20000-0-43136,maximum_temperature_at_height_and_over_period_specified,17.66667,80.88333,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,33.8,Celsius
+0-20000-0-43177,non_coordinate_pressure,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,non_coordinate_pressure,994.9,hPa
+0-20000-0-43136,minimum_temperature_at_height_and_over_period_specified,17.66667,80.88333,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,23.0,Celsius
+0-20000-0-43177,pressure_reduced_to_mean_sea_level,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1006.8,hPa
+0-20000-0-43136,maximum_temperature_at_height_and_over_period_specified,17.66667,80.88333,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,33.8,Celsius
+0-20000-0-43177,24hour_pressure_change,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,-0.3,hPa
+0-20000-0-43136,minimum_temperature_at_height_and_over_period_specified,17.66667,80.88333,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,23.0,Celsius
+0-20000-0-43177,air_temperature,16.55,79.55,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,27.0,Celsius
+0-20000-0-42925,wind_speed,20.55,74.53,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42851,horizontal_visibility,21.05,75.56667,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43069,24hour_pressure_change,18.15,74.58333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.0,hPa
+0-20000-0-43069,height_of_base_of_cloud,18.15,74.58333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,1500.0,m
+0-20000-0-43109,dewpoint_temperature,17.81667,73.1,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,25.3,Celsius
+0-20000-0-42925,cloud_type,20.55,74.53333,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42867,pressure_reduced_to_mean_sea_level,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1011.7,hPa
+0-20000-0-42867,24hour_pressure_change,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.2,hPa
+0-20000-0-43025,non_coordinate_pressure,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,non_coordinate_pressure,982.5,hPa
+0-20000-0-42867,air_temperature,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,29.4,Celsius
+0-20000-0-43025,pressure_reduced_to_mean_sea_level,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1012.5,hPa
+0-20000-0-43025,24hour_pressure_change,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,-0.4,hPa
+0-20000-0-42867,dewpoint_temperature,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,23.9,Celsius
+0-20000-0-43025,air_temperature,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,28.8,Celsius
+0-20000-0-42867,horizontal_visibility,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43025,dewpoint_temperature,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,25.8,Celsius
+0-20000-0-42867,cloud_cover_total,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,37.0,%
+0-20000-0-43025,horizontal_visibility,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-42867,cloud_amount,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43025,cloud_cover_total,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-42867,height_of_base_of_cloud,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,3000.0,m
+0-20000-0-43025,cloud_amount,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42867,cloud_type,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43025,height_of_base_of_cloud,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42867,cloud_type,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43025,cloud_type,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42867,cloud_type,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43025,cloud_type,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42867,cloud_amount,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42871,non_coordinate_pressure,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,non_coordinate_pressure,976.6,hPa
+0-20000-0-43025,cloud_type,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42867,cloud_type,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,pressure_reduced_to_mean_sea_level,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1010.8,hPa
+0-20000-0-43025,present_weather,19.65,78.53,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42867,height_of_base_of_cloud,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,3000.0,m
+0-20000-0-42871,24hour_pressure_change,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.1,hPa
+0-20000-0-42867,cloud_amount,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43025,past_weather2,19.65,78.53,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42867,cloud_type,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,air_temperature,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,28.2,Celsius
+0-20000-0-43025,total_precipitation_or_total_water_equivalent,19.65,78.53,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42867,height_of_base_of_cloud,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,7500.0,m
+0-20000-0-42871,dewpoint_temperature,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.2,Celsius
+0-20000-0-42933,pressure_reduced_to_mean_sea_level,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1010.8,hPa
+0-20000-0-43025,maximum_temperature_at_height_and_over_period_specified,19.65,78.53,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,33.8,Celsius
+0-20000-0-42867,present_weather,21.1,79.05,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42871,horizontal_visibility,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-42933,24hour_pressure_change,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.2,hPa
+0-20000-0-42867,past_weather1,21.1,79.05,2026-09-20T00:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43025,minimum_temperature_at_height_and_over_period_specified,19.65,78.53,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,23.5,Celsius
+0-20000-0-42871,cloud_cover_total,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,25.0,%
+0-20000-0-42933,air_temperature,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,26.4,Celsius
+0-20000-0-42867,past_weather2,21.1,79.05,2026-09-20T00:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42871,cloud_amount,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43025,wind_direction,19.65,78.53,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,0.0,deg
+0-20000-0-42933,dewpoint_temperature,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,23.1,Celsius
+0-20000-0-42867,total_precipitation_or_total_water_equivalent,21.1,79.05,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42871,height_of_base_of_cloud,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,3000.0,m
+0-20000-0-43025,wind_speed,19.65,78.53,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42867,minimum_temperature_at_height_and_over_period_specified,21.1,79.05,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,22.8,Celsius
+0-20000-0-42933,horizontal_visibility,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42867,wind_direction,21.1,79.05,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,50.0,deg
+0-20000-0-42933,cloud_cover_total,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,0.0,%
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42867,wind_speed,21.1,79.05,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42933,height_of_base_of_cloud,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,0.0,m
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42933,present_weather,20.7,77.03,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42933,past_weather1,20.7,77.03,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42871,present_weather,21.46,80.2,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42933,past_weather2,20.7,77.03,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42871,past_weather1,21.46,80.2,2026-09-20T00:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42933,total_precipitation_or_total_water_equivalent,20.7,77.03,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42871,past_weather2,21.46,80.2,2026-09-20T00:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42933,minimum_temperature_at_height_and_over_period_specified,20.7,77.03,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,24.0,Celsius
+0-20000-0-42871,total_precipitation_or_total_water_equivalent,21.46,80.2,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42933,wind_direction,20.7,77.03,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,0.0,deg
+0-20000-0-42871,maximum_temperature_at_height_and_over_period_specified,21.46,80.2,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,33.2,Celsius
+0-20000-0-42933,wind_speed,20.7,77.03,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42871,minimum_temperature_at_height_and_over_period_specified,21.46,80.2,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,21.8,Celsius
+0-20000-0-42871,wind_direction,21.46,80.2,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,270.0,deg
+0-20000-0-42871,wind_speed,21.46,80.2,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42931,pressure_reduced_to_mean_sea_level,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1011.4,hPa
+0-20000-0-42931,24hour_pressure_change,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.0,hPa
+0-20000-0-42931,air_temperature,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,24.4,Celsius
+0-20000-0-42931,dewpoint_temperature,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,22.4,Celsius
+0-20000-0-42931,horizontal_visibility,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42931,cloud_cover_total,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-42931,cloud_amount,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42931,height_of_base_of_cloud,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,4000.0,m
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,present_weather,20.53,76.23,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42931,past_weather1,20.53,76.23,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42931,past_weather2,20.53,76.23,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42931,total_precipitation_or_total_water_equivalent,20.53,76.23,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42931,minimum_temperature_at_height_and_over_period_specified,20.53,76.23,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,23.2,Celsius
+0-20000-0-42931,wind_direction,20.53,76.23,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,320.0,deg
+0-20000-0-42931,wind_speed,20.53,76.23,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42937,pressure_reduced_to_mean_sea_level,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1009.8,hPa
+0-20000-0-42946,pressure_reduced_to_mean_sea_level,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1009.5,hPa
+0-20000-0-42946,24hour_pressure_change,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,-0.5,hPa
+0-20000-0-42937,air_temperature,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,27.0,Celsius
+0-20000-0-42946,air_temperature,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,28.8,Celsius
+0-20000-0-42937,dewpoint_temperature,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.0,Celsius
+0-20000-0-42946,dewpoint_temperature,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.2,Celsius
+0-20000-0-42937,horizontal_visibility,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42946,horizontal_visibility,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42937,cloud_cover_total,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,50.0,%
+0-20000-0-42946,cloud_cover_total,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,0.0,%
+0-20000-0-42937,cloud_amount,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42946,height_of_base_of_cloud,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,0.0,m
+0-20000-0-42937,height_of_base_of_cloud,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42946,present_weather,20.6,79.85,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42937,cloud_type,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,past_weather1,20.6,79.85,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42937,cloud_type,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,past_weather2,20.6,79.85,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42937,cloud_type,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,total_precipitation_or_total_water_equivalent,20.6,79.85,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42937,present_weather,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42946,minimum_temperature_at_height_and_over_period_specified,20.6,79.85,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,25.2,Celsius
+0-20000-0-42937,past_weather1,20.93,77.78,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42946,wind_direction,20.6,79.85,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,0.0,deg
+0-20000-0-42946,wind_speed,20.6,79.85,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42937,past_weather2,20.93,77.78,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42939,pressure_reduced_to_mean_sea_level,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1010.5,hPa
+0-20000-0-42937,total_precipitation_or_total_water_equivalent,20.93,77.78,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42937,minimum_temperature_at_height_and_over_period_specified,20.93,77.78,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,23.3,Celsius
+0-20000-0-42939,24hour_pressure_change,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.1,hPa
+0-20000-0-42937,wind_direction,20.93,77.78,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,250.0,deg
+0-20000-0-42939,air_temperature,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,29.0,Celsius
+0-20000-0-42937,wind_speed,20.93,77.78,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,1.5,m/s
+0-20000-0-42939,dewpoint_temperature,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.1,Celsius
+0-20000-0-42939,horizontal_visibility,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-42943,pressure_reduced_to_mean_sea_level,20.4,78.15,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1011.0,hPa
+0-20000-0-42939,cloud_cover_total,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,12.0,%
+0-20000-0-42943,air_temperature,20.4,78.15,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,27.4,Celsius
+0-20000-0-42939,cloud_amount,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42943,dewpoint_temperature,20.4,78.15,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.0,Celsius
+0-20000-0-42939,height_of_base_of_cloud,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,4000.0,m
+0-20000-0-42943,horizontal_visibility,20.4,78.15,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-42939,cloud_type,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42943,cloud_cover_total,20.4,78.15,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-42939,cloud_type,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42943,height_of_base_of_cloud,20.4,78.15,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,4000.0,m
+0-20000-0-42939,cloud_type,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42943,present_weather,20.4,78.15,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42939,present_weather,20.66,78.58,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42939,past_weather1,20.66,78.58,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42943,past_weather1,20.4,78.15,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42939,past_weather2,20.66,78.58,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42943,past_weather2,20.4,78.15,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42939,total_precipitation_or_total_water_equivalent,20.66,78.58,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42943,total_precipitation_or_total_water_equivalent,20.4,78.15,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42939,minimum_temperature_at_height_and_over_period_specified,20.66,78.58,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,24.5,Celsius
+0-20000-0-42943,minimum_temperature_at_height_and_over_period_specified,20.4,78.15,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,20.0,Celsius
+0-20000-0-42939,wind_direction,20.66,78.58,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,140.0,deg
+0-20000-0-42943,wind_direction,20.4,78.15,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,180.0,deg
+0-20000-0-42939,wind_speed,20.66,78.58,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.5,m/s
+0-20000-0-42943,wind_speed,20.4,78.15,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43029,pressure_reduced_to_mean_sea_level,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1010.0,hPa
+0-20000-0-43029,24hour_pressure_change,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,-0.5,hPa
+0-20000-0-43029,air_temperature,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,30.6,Celsius
+0-20000-0-43029,dewpoint_temperature,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,24.7,Celsius
+0-20000-0-43029,horizontal_visibility,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-43029,cloud_cover_total,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,25.0,%
+0-20000-0-43029,cloud_amount,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43029,height_of_base_of_cloud,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,3000.0,m
+0-20000-0-43029,cloud_type,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43029,cloud_type,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43029,cloud_type,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43029,cloud_type,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43029,present_weather,19.96,79.3,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43029,past_weather1,19.96,79.3,2026-09-20T00:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43029,past_weather2,19.96,79.3,2026-09-20T00:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43029,total_precipitation_or_total_water_equivalent,19.96,79.3,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43029,minimum_temperature_at_height_and_over_period_specified,19.96,79.3,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,26.0,Celsius
+0-20000-0-43029,wind_direction,19.96,79.3,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,230.0,deg
+0-20000-0-43029,wind_speed,19.96,79.3,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43133,air_temperature,17.0,79.25,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,27.4,Celsius
+0-20000-0-43133,dewpoint_temperature,17.0,79.25,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,19.0,Celsius
+0-20000-0-43133,horizontal_visibility,17.0,79.25,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43133,cloud_cover_total,17.0,79.25,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,0.0,%
+0-20000-0-43133,height_of_base_of_cloud,17.0,79.25,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,0.0,m
+0-20000-0-43133,present_weather,17.0,79.25,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43133,past_weather1,17.0,79.25,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43133,past_weather2,17.0,79.25,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43133,total_precipitation_or_total_water_equivalent,17.0,79.25,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43133,maximum_temperature_at_height_and_over_period_specified,17.0,79.25,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,34.5,Celsius
+0-20000-0-43133,minimum_temperature_at_height_and_over_period_specified,17.0,79.25,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,24.2,Celsius
+0-20000-0-43133,wind_direction,17.0,79.25,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,0.0,deg
+0-20000-0-43133,wind_speed,17.0,79.25,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43083,non_coordinate_pressure,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,non_coordinate_pressure,952.7,hPa
+0-20000-0-43083,pressure_reduced_to_mean_sea_level,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,pressure_reduced_to_mean_sea_level,1004.5,hPa
+0-20000-0-43083,24hour_pressure_change,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,0.2,hPa
+0-20000-0-43083,air_temperature,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,air_temperature,26.4,Celsius
+0-20000-0-43083,dewpoint_temperature,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,dewpoint_temperature,21.9,Celsius
+0-20000-0-43083,horizontal_visibility,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43083,cloud_cover_total,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43083,cloud_amount,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43083,height_of_base_of_cloud,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43083,cloud_type,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43083,cloud_type,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43083,cloud_type,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43083,present_weather,18.05,78.26,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43083,past_weather1,18.05,78.26,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43083,past_weather2,18.05,78.26,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43083,total_precipitation_or_total_water_equivalent,18.05,78.26,2026-09-20T02:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43083,maximum_temperature_at_height_and_over_period_specified,18.05,78.26,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,maximum_temperature_at_height_and_over_period_specified,31.0,Celsius
+0-20000-0-43083,minimum_temperature_at_height_and_over_period_specified,18.05,78.26,2026-09-19T15:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,minimum_temperature_at_height_and_over_period_specified,22.5,Celsius
+0-20000-0-43083,wind_direction,18.05,78.26,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_direction,230.0,deg
+0-20000-0-43083,wind_speed,18.05,78.26,2026-09-20T02:50:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43025,past_weather1,19.65,78.53,2026-09-19T21:00:00Z/2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42937,24hour_pressure_change,20.93,77.78,2026-09-20T03:00:00Z,2026-09-20T03:00:00Z,24hour_pressure_change,1.0,hPa
+0-20000-0-43063,wind_speed,18.53,73.85,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43081,wind_speed,18.66667,78.1,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43213,wind_direction,15.8,78.06667,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,270.0,deg
+0-20000-0-43213,wind_speed,15.8,78.06667,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43220,non_coordinate_pressure,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,1006.2,hPa
+0-20000-0-43220,pressure_reduced_to_mean_sea_level,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1006.9,hPa
+0-20000-0-43220,24hour_pressure_change,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,1.3,hPa
+0-20000-0-43220,air_temperature,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,33.4,Celsius
+0-20000-0-43220,dewpoint_temperature,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,25.6,Celsius
+0-20000-0-43220,horizontal_visibility,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43220,cloud_cover_total,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43220,cloud_amount,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43220,height_of_base_of_cloud,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,present_weather,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43220,past_weather1,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43220,past_weather2,15.9,80.46667,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43220,wind_direction,15.9,80.46667,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,270.0,deg
+0-20000-0-43220,wind_speed,15.9,80.46667,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43086,non_coordinate_pressure,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,989.6,hPa
+0-20000-0-43086,pressure_reduced_to_mean_sea_level,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1006.9,hPa
+0-20000-0-43086,24hour_pressure_change,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,0.6,hPa
+0-20000-0-43086,air_temperature,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,32.8,Celsius
+0-20000-0-43086,dewpoint_temperature,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,23.0,Celsius
+0-20000-0-43086,horizontal_visibility,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43086,cloud_cover_total,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,100.0,%
+0-20000-0-43086,cloud_amount,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43086,height_of_base_of_cloud,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,300.0,m
+0-20000-0-43086,cloud_type,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43086,cloud_type,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43086,cloud_type,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43086,present_weather,18.76,79.43,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43086,past_weather1,18.76,79.43,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43086,past_weather2,18.76,79.43,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43086,total_precipitation_or_total_water_equivalent,18.76,79.43,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43086,wind_direction,18.76,79.43,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,320.0,deg
+0-20000-0-43086,wind_speed,18.76,79.43,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43128,non_coordinate_pressure,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,948.3,hPa
+0-20000-0-43128,pressure_reduced_to_mean_sea_level,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1007.4,hPa
+0-20000-0-43128,24hour_pressure_change,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,0.7,hPa
+0-20000-0-43128,air_temperature,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,29.4,Celsius
+0-20000-0-43128,dewpoint_temperature,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,24.6,Celsius
+0-20000-0-43128,cloud_cover_total,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43128,cloud_amount,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43128,height_of_base_of_cloud,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43128,cloud_type,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43128,cloud_type,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43128,cloud_type,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43128,cloud_type,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43128,present_weather,17.45,78.46,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43128,past_weather1,17.45,78.46,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43128,past_weather2,17.45,78.46,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43128,wind_direction,17.45,78.46,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,0.0,deg
+0-20000-0-43128,wind_speed,17.45,78.46,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43198,non_coordinate_pressure,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,926.4,hPa
+0-20000-0-43198,pressure_reduced_to_mean_sea_level,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1005.6,hPa
+0-20000-0-43198,24hour_pressure_change,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,-0.8,hPa
+0-20000-0-43198,air_temperature,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,32.2,Celsius
+0-20000-0-43198,dewpoint_temperature,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,18.5,Celsius
+0-20000-0-43198,horizontal_visibility,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43198,cloud_cover_total,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43198,cloud_amount,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43198,height_of_base_of_cloud,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,360.0,m
+0-20000-0-43198,cloud_type,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43198,cloud_type,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43198,cloud_type,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43198,true_direction_from_which_aphenomenon_or_clouds_are_moving_or_in_which_they_are_observed,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,true_direction_from_which_aphenomenon_or_clouds_are_moving_or_in_which_they_are_observed,45.0,deg
+0-20000-0-43198,cloud_type,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43198,present_weather,15.85,74.61,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43198,past_weather1,15.85,74.61,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43198,past_weather2,15.85,74.61,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43198,total_precipitation_or_total_water_equivalent,15.85,74.61,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43213,non_coordinate_pressure,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,976.9,hPa
+0-20000-0-43198,wind_direction,15.85,74.61,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,50.0,deg
+0-20000-0-43213,pressure_reduced_to_mean_sea_level,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1008.0,hPa
+0-20000-0-43198,wind_speed,15.85,74.61,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43213,24hour_pressure_change,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,1.1,hPa
+0-20000-0-43213,air_temperature,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,29.8,Celsius
+0-20000-0-43213,dewpoint_temperature,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,23.7,Celsius
+0-20000-0-43213,horizontal_visibility,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43213,cloud_cover_total,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,87.0,%
+0-20000-0-43213,cloud_amount,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43213,height_of_base_of_cloud,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43213,cloud_type,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43213,cloud_type,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43213,cloud_type,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43213,true_direction_from_which_aphenomenon_or_clouds_are_moving_or_in_which_they_are_observed,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,true_direction_from_which_aphenomenon_or_clouds_are_moving_or_in_which_they_are_observed,270.0,deg
+0-20000-0-43213,present_weather,15.8,78.06,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43213,past_weather1,15.8,78.06,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43213,past_weather2,15.8,78.06,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43213,wind_direction,15.8,78.06,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,270.0,deg
+0-20000-0-43213,wind_speed,15.8,78.06,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43081,non_coordinate_pressure,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,965.7,hPa
+0-20000-0-43081,pressure_reduced_to_mean_sea_level,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1007.9,hPa
+0-20000-0-43081,24hour_pressure_change,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,0.7,hPa
+0-20000-0-43081,air_temperature,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,28.0,Celsius
+0-20000-0-43081,dewpoint_temperature,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,23.9,Celsius
+0-20000-0-43081,horizontal_visibility,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43081,cloud_cover_total,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,100.0,%
+0-20000-0-43081,cloud_amount,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43081,height_of_base_of_cloud,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,300.0,m
+0-20000-0-43081,cloud_type,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43081,cloud_type,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43081,cloud_type,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43081,true_direction_from_which_aphenomenon_or_clouds_are_moving_or_in_which_they_are_observed,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,true_direction_from_which_aphenomenon_or_clouds_are_moving_or_in_which_they_are_observed,270.0,deg
+0-20000-0-43081,cloud_type,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43081,present_weather,18.66,78.1,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43081,past_weather1,18.66,78.1,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43081,past_weather2,18.66,78.1,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43081,wind_direction,18.66,78.1,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,0.0,deg
+0-20000-0-43081,wind_speed,18.66,78.1,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43121,non_coordinate_pressure,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,956.8,hPa
+0-20000-0-43121,pressure_reduced_to_mean_sea_level,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1006.2,hPa
+0-20000-0-43121,24hour_pressure_change,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,0.6,hPa
+0-20000-0-43121,air_temperature,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,33.0,Celsius
+0-20000-0-43121,dewpoint_temperature,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,22.2,Celsius
+0-20000-0-43121,horizontal_visibility,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43121,cloud_cover_total,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43121,cloud_amount,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43121,height_of_base_of_cloud,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,300.0,m
+0-20000-0-43181,non_coordinate_pressure,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,1004.5,hPa
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43181,pressure_reduced_to_mean_sea_level,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1007.2,hPa
+0-20000-0-43221,non_coordinate_pressure,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,1004.4,hPa
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43221,pressure_reduced_to_mean_sea_level,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1005.7,hPa
+0-20000-0-43181,24hour_pressure_change,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,1.5,hPa
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43221,24hour_pressure_change,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,0.5,hPa
+0-20000-0-43181,air_temperature,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,28.0,Celsius
+0-20000-0-43121,present_weather,17.35,76.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43221,air_temperature,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,35.4,Celsius
+0-20000-0-43181,dewpoint_temperature,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,23.3,Celsius
+0-20000-0-43121,past_weather1,17.35,76.85,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43221,dewpoint_temperature,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,24.3,Celsius
+0-20000-0-43181,horizontal_visibility,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43121,past_weather2,17.35,76.85,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43181,cloud_cover_total,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,100.0,%
+0-20000-0-43221,horizontal_visibility,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43121,total_precipitation_or_total_water_equivalent,17.35,76.85,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43181,cloud_amount,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43121,wind_direction,17.35,76.85,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,0.0,deg
+0-20000-0-43221,cloud_cover_total,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,87.0,%
+0-20000-0-43121,wind_speed,17.35,76.85,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,0.5,m/s
+0-20000-0-43221,cloud_amount,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43181,height_of_base_of_cloud,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,300.0,m
+0-20000-0-43221,height_of_base_of_cloud,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43181,cloud_type,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43181,cloud_type,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43221,cloud_type,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43181,cloud_type,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43181,cloud_type,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43221,cloud_type,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43181,present_weather,16.53,80.8,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43221,cloud_type,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43181,past_weather1,16.53,80.8,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43221,present_weather,15.5,80.08,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43181,past_weather2,16.53,80.8,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43221,past_weather1,15.5,80.08,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43181,wind_direction,16.53,80.8,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,320.0,deg
+0-20000-0-43221,past_weather2,15.5,80.08,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43181,wind_speed,16.53,80.8,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43221,total_precipitation_or_total_water_equivalent,15.5,80.08,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43221,wind_direction,15.5,80.08,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,360.0,deg
+0-20000-0-43221,wind_speed,15.5,80.08,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.5,m/s
+0-20000-0-42867,wind_speed,21.1,79.05,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42933,wind_speed,20.7,77.03,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42768,pressure_reduced_to_mean_sea_level,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1011.7,hPa
+0-20000-0-42768,24hour_pressure_change,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,1.0,hPa
+0-20000-0-42768,air_temperature,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,28.6,Celsius
+0-20000-0-42768,dewpoint_temperature,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,23.2,Celsius
+0-20000-0-42768,horizontal_visibility,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42768,cloud_cover_total,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,50.0,%
+0-20000-0-42768,cloud_amount,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42768,height_of_base_of_cloud,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,cloud_amount,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,height_of_base_of_cloud,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42768,present_weather,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42768,past_weather1,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42768,past_weather2,22.1,79.0,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42768,wind_direction,22.1,79.0,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,0.0,deg
+0-20000-0-42768,wind_speed,22.1,79.0,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42937,pressure_reduced_to_mean_sea_level,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1010.2,hPa
+0-20000-0-42937,24hour_pressure_change,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,1.0,hPa
+0-20000-0-42937,air_temperature,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,32.4,Celsius
+0-20000-0-42937,dewpoint_temperature,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,25.2,Celsius
+0-20000-0-42937,horizontal_visibility,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42937,cloud_cover_total,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,63.0,%
+0-20000-0-42937,cloud_amount,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42937,height_of_base_of_cloud,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42937,cloud_type,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42937,cloud_type,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42937,cloud_type,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42937,present_weather,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42939,pressure_reduced_to_mean_sea_level,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1010.7,hPa
+0-20000-0-42937,past_weather1,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42939,24hour_pressure_change,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,0.3,hPa
+0-20000-0-42937,past_weather2,20.93333,77.78333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42939,air_temperature,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,32.4,Celsius
+0-20000-0-42937,wind_direction,20.93333,77.78333,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,250.0,deg
+0-20000-0-42939,dewpoint_temperature,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,25.1,Celsius
+0-20000-0-42937,wind_speed,20.93333,77.78333,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.5,m/s
+0-20000-0-42939,horizontal_visibility,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-42939,cloud_cover_total,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,50.0,%
+0-20000-0-42939,cloud_amount,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42939,height_of_base_of_cloud,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42939,cloud_type,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42939,cloud_type,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42939,cloud_type,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42939,cloud_amount,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42939,cloud_type,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42939,height_of_base_of_cloud,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42939,present_weather,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42939,past_weather1,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42939,past_weather2,20.66667,78.58333,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42939,wind_direction,20.66667,78.58333,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,270.0,deg
+0-20000-0-42939,wind_speed,20.66667,78.58333,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.5,m/s
+0-20000-0-42946,pressure_reduced_to_mean_sea_level,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1010.0,hPa
+0-20000-0-42946,24hour_pressure_change,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,0.9,hPa
+0-20000-0-42946,air_temperature,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,32.4,Celsius
+0-20000-0-42946,dewpoint_temperature,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,24.1,Celsius
+0-20000-0-42946,horizontal_visibility,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42946,cloud_cover_total,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,38.0,%
+0-20000-0-42946,cloud_amount,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42946,height_of_base_of_cloud,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,1000.0,m
+0-20000-0-42946,cloud_type,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,cloud_type,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,cloud_type,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,present_weather,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42946,past_weather1,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42946,past_weather2,20.6,79.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42946,wind_direction,20.6,79.85,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,0.0,deg
+0-20000-0-42946,wind_speed,20.6,79.85,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43001,pressure_reduced_to_mean_sea_level,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1011.1,hPa
+0-20000-0-43001,24hour_pressure_change,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,-0.4,hPa
+0-20000-0-43001,air_temperature,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,30.8,Celsius
+0-20000-0-43001,dewpoint_temperature,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,26.6,Celsius
+0-20000-0-43001,horizontal_visibility,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43001,cloud_cover_total,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43001,cloud_amount,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43001,height_of_base_of_cloud,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43001,cloud_type,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43001,cloud_type,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43001,cloud_type,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43001,present_weather,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43001,past_weather1,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43001,past_weather2,19.96667,72.71667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43001,wind_direction,19.96667,72.71667,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,290.0,deg
+0-20000-0-43001,wind_speed,19.96667,72.71667,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43111,24hour_pressure_change,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,-0.1,hPa
+0-20000-0-43111,non_coordinate_geopotential_height,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,non_coordinate_geopotential_height,1527.0,gpm
+0-20000-0-43111,air_temperature,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,21.8,Celsius
+0-20000-0-43111,dewpoint_temperature,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,20.9,Celsius
+0-20000-0-43111,horizontal_visibility,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,1000.0,m
+0-20000-0-43111,cloud_cover_total,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,88.0,%
+0-20000-0-43111,cloud_amount,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43111,cloud_type,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43111,cloud_type,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43111,cloud_type,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43111,present_weather,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43111,past_weather1,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43111,past_weather2,17.93333,73.66667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43111,wind_direction,17.93333,73.66667,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,70.0,deg
+0-20000-0-43111,wind_speed,17.93333,73.66667,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,2.6,m/s
+0-20000-0-43121,non_coordinate_pressure,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,non_coordinate_pressure,960.4,hPa
+0-20000-0-43121,pressure_reduced_to_mean_sea_level,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1010.3,hPa
+0-20000-0-43121,24hour_pressure_change,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,0.5,hPa
+0-20000-0-43121,air_temperature,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,31.2,Celsius
+0-20000-0-43121,dewpoint_temperature,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,22.7,Celsius
+0-20000-0-43121,horizontal_visibility,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43121,cloud_cover_total,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,63.0,%
+0-20000-0-43121,cloud_amount,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43121,height_of_base_of_cloud,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,300.0,m
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43121,cloud_type,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43121,present_weather,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43121,past_weather1,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43121,past_weather2,17.35,76.85,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43121,wind_direction,17.35,76.85,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,160.0,deg
+0-20000-0-43121,wind_speed,17.35,76.85,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43220,non_coordinate_pressure,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,non_coordinate_pressure,1009.3,hPa
+0-20000-0-43220,pressure_reduced_to_mean_sea_level,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1010.0,hPa
+0-20000-0-43220,24hour_pressure_change,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,1.0,hPa
+0-20000-0-43220,air_temperature,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,32.0,Celsius
+0-20000-0-43220,dewpoint_temperature,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,27.3,Celsius
+0-20000-0-43220,horizontal_visibility,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43220,cloud_cover_total,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-43220,cloud_amount,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43220,height_of_base_of_cloud,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,cloud_type,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43220,present_weather,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43220,past_weather1,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43220,past_weather2,15.9,80.46667,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43220,wind_direction,15.9,80.46667,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,0.0,deg
+0-20000-0-43220,wind_speed,15.9,80.46667,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42840,wind_speed,21.2,72.83,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42921,wind_speed,20.0,73.78,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42871,non_coordinate_pressure,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,non_coordinate_pressure,977.5,hPa
+0-20000-0-42871,pressure_reduced_to_mean_sea_level,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1011.4,hPa
+0-20000-0-42871,24hour_pressure_change,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,1.0,hPa
+0-20000-0-42871,air_temperature,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,31.2,Celsius
+0-20000-0-42871,dewpoint_temperature,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,26.2,Celsius
+0-20000-0-42871,horizontal_visibility,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42871,cloud_cover_total,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,38.0,%
+0-20000-0-42871,cloud_amount,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42871,height_of_base_of_cloud,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,750.0,m
+0-20000-0-42871,cloud_type,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,cloud_type,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,cloud_type,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,cloud_amount,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42871,cloud_type,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,height_of_base_of_cloud,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,750.0,m
+0-20000-0-42871,present_weather,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42871,past_weather1,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42871,past_weather2,21.46667,80.2,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42871,wind_direction,21.46667,80.2,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,50.0,deg
+0-20000-0-42871,wind_speed,21.46667,80.2,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42937,wind_speed,20.93,77.78,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.5,m/s
+0-20000-0-42946,wind_speed,20.6,79.85,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43001,wind_speed,19.96,72.71,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.0,m/s
+0-20000-0-43111,wind_speed,17.93,73.66,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,2.6,m/s
+0-20000-0-43121,wind_speed,17.35,76.85,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43220,wind_speed,15.9,80.46,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43109,pressure_reduced_to_mean_sea_level,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1014.3,hPa
+0-20000-0-43109,24hour_pressure_change,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,-0.2,hPa
+0-20000-0-43109,air_temperature,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,30.2,Celsius
+0-20000-0-43109,dewpoint_temperature,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,25.7,Celsius
+0-20000-0-43109,horizontal_visibility,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43109,cloud_cover_total,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,50.0,%
+0-20000-0-43109,cloud_amount,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43109,height_of_base_of_cloud,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43109,cloud_type,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43109,cloud_type,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43109,cloud_type,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43109,wind_direction,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,230.0,deg
+0-20000-0-43109,wind_speed,17.81667,73.1,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.5,m/s
+0-20000-0-43158,non_coordinate_pressure,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,non_coordinate_pressure,950.7,hPa
+0-20000-0-43158,pressure_reduced_to_mean_sea_level,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1010.3,hPa
+0-20000-0-43158,24hour_pressure_change,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,-0.3,hPa
+0-20000-0-43158,air_temperature,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,30.6,Celsius
+0-20000-0-43158,dewpoint_temperature,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,22.4,Celsius
+0-20000-0-43158,horizontal_visibility,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,10000.0,m
+0-20000-0-43158,cloud_cover_total,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,88.0,%
+0-20000-0-43158,cloud_amount,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43158,height_of_base_of_cloud,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43158,cloud_type,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43158,cloud_type,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43158,cloud_type,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43158,wind_direction,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,0.0,deg
+0-20000-0-43158,wind_speed,16.85,74.6,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42931,pressure_reduced_to_mean_sea_level,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,pressure_reduced_to_mean_sea_level,1010.8,hPa
+0-20000-0-42931,24hour_pressure_change,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,24hour_pressure_change,0.0,hPa
+0-20000-0-42931,air_temperature,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,air_temperature,28.6,Celsius
+0-20000-0-42931,dewpoint_temperature,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,dewpoint_temperature,23.5,Celsius
+0-20000-0-42931,horizontal_visibility,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42931,cloud_cover_total,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-42931,cloud_amount,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42931,height_of_base_of_cloud,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,height_of_base_of_cloud,4000.0,m
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,present_weather,20.53,76.23,2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42931,past_weather1,20.53,76.23,2026-09-20T00:00:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42931,past_weather2,20.53,76.23,2026-09-20T00:00:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42931,total_precipitation_or_total_water_equivalent,20.53,76.23,2026-09-20T05:00:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42931,wind_direction,20.53,76.23,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_direction,320.0,deg
+0-20000-0-42931,wind_speed,20.53,76.23,2026-09-20T05:50:00Z/2026-09-20T06:00:00Z,2026-09-20T06:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42768,pressure_reduced_to_mean_sea_level,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1008.0,hPa
+0-20000-0-42768,24hour_pressure_change,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,-0.7,hPa
+0-20000-0-42768,air_temperature,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,29.6,Celsius
+0-20000-0-42768,dewpoint_temperature,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,23.1,Celsius
+0-20000-0-42768,horizontal_visibility,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42768,cloud_cover_total,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-42768,cloud_amount,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42768,height_of_base_of_cloud,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,cloud_amount,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,height_of_base_of_cloud,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42768,cloud_amount,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,height_of_base_of_cloud,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,900.0,m
+0-20000-0-42768,cloud_type,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42768,present_weather,22.1,79.0,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42768,past_weather1,22.1,79.0,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42768,past_weather2,22.1,79.0,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42768,total_precipitation_or_total_water_equivalent,22.1,79.0,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42768,wind_direction,22.1,79.0,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,0.0,deg
+0-20000-0-42768,wind_speed,22.1,79.0,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,0.0,m/s
+0-20000-0-42931,pressure_reduced_to_mean_sea_level,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1008.6,hPa
+0-20000-0-42931,24hour_pressure_change,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,-0.1,hPa
+0-20000-0-42931,air_temperature,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,30.0,Celsius
+0-20000-0-42871,non_coordinate_pressure,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,non_coordinate_pressure,973.8,hPa
+0-20000-0-42931,dewpoint_temperature,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,24.5,Celsius
+0-20000-0-42871,pressure_reduced_to_mean_sea_level,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1007.3,hPa
+0-20000-0-42931,horizontal_visibility,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42931,cloud_cover_total,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-42871,24hour_pressure_change,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,0.2,hPa
+0-20000-0-42871,air_temperature,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,33.8,Celsius
+0-20000-0-42931,cloud_amount,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42871,dewpoint_temperature,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,26.3,Celsius
+0-20000-0-42931,height_of_base_of_cloud,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,4000.0,m
+0-20000-0-42871,horizontal_visibility,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,cloud_cover_total,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,37.0,%
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,cloud_amount,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42931,cloud_type,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42871,height_of_base_of_cloud,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,750.0,m
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,present_weather,20.53,76.23,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,past_weather1,20.53,76.23,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,past_weather2,20.53,76.23,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42871,cloud_amount,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42931,total_precipitation_or_total_water_equivalent,20.53,76.23,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42871,cloud_type,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42931,wind_direction,20.53,76.23,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,230.0,deg
+0-20000-0-42931,wind_speed,20.53,76.23,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42871,height_of_base_of_cloud,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,750.0,m
+0-20000-0-42937,pressure_reduced_to_mean_sea_level,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1005.6,hPa
+0-20000-0-42937,24hour_pressure_change,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,-1.0,hPa
+0-20000-0-42871,present_weather,21.46,80.2,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42937,air_temperature,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,35.0,Celsius
+0-20000-0-42871,past_weather1,21.46,80.2,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42937,dewpoint_temperature,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,26.3,Celsius
+0-20000-0-42871,past_weather2,21.46,80.2,2026-09-20T06:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42937,horizontal_visibility,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42871,total_precipitation_or_total_water_equivalent,21.46,80.2,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42937,cloud_cover_total,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-42871,wind_direction,21.46,80.2,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,200.0,deg
+0-20000-0-42937,cloud_amount,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42871,wind_speed,21.46,80.2,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.0,m/s
+0-20000-0-42937,height_of_base_of_cloud,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-42937,cloud_type,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42937,cloud_type,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42937,cloud_type,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42937,present_weather,20.93,77.78,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42937,past_weather1,20.93,77.78,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42937,past_weather2,20.93,77.78,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42937,total_precipitation_or_total_water_equivalent,20.93,77.78,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42937,wind_direction,20.93,77.78,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,290.0,deg
+0-20000-0-42937,wind_speed,20.93,77.78,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,1.5,m/s
+0-20000-0-42946,pressure_reduced_to_mean_sea_level,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1006.2,hPa
+0-20000-0-42946,24hour_pressure_change,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,0.2,hPa
+0-20000-0-42946,air_temperature,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,33.0,Celsius
+0-20000-0-42946,dewpoint_temperature,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,24.5,Celsius
+0-20000-0-42946,horizontal_visibility,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-42946,cloud_cover_total,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,75.0,%
+0-20000-0-42946,cloud_amount,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-42946,height_of_base_of_cloud,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,1250.0,m
+0-20000-0-42946,cloud_type,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,cloud_type,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,cloud_type,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-42946,present_weather,20.6,79.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-42946,past_weather1,20.6,79.85,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-42946,past_weather2,20.6,79.85,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-42946,total_precipitation_or_total_water_equivalent,20.6,79.85,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-42946,wind_direction,20.6,79.85,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,0.0,deg
+0-20000-0-43001,pressure_reduced_to_mean_sea_level,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1008.4,hPa
+0-20000-0-42946,wind_speed,20.6,79.85,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_speed,0.0,m/s
+0-20000-0-43003,pressure_reduced_to_mean_sea_level,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,pressure_reduced_to_mean_sea_level,1009.4,hPa
+0-20000-0-43001,24hour_pressure_change,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,-0.4,hPa
+0-20000-0-43001,air_temperature,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,32.0,Celsius
+0-20000-0-43003,24hour_pressure_change,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,24hour_pressure_change,-0.6,hPa
+0-20000-0-43001,dewpoint_temperature,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,26.4,Celsius
+0-20000-0-43003,air_temperature,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,air_temperature,31.8,Celsius
+0-20000-0-43001,horizontal_visibility,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,4000.0,m
+0-20000-0-43003,dewpoint_temperature,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,dewpoint_temperature,25.6,Celsius
+0-20000-0-43001,cloud_cover_total,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,50.0,%
+0-20000-0-43003,horizontal_visibility,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,horizontal_visibility,2000.0,m
+0-20000-0-43001,cloud_amount,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43003,cloud_cover_total,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_cover_total,62.0,%
+0-20000-0-43001,height_of_base_of_cloud,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43003,cloud_amount,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43001,cloud_type,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,height_of_base_of_cloud,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43001,cloud_type,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43001,cloud_type,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43001,present_weather,19.96,72.71,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,present_weather,,CODE TABLE
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43001,past_weather1,19.96,72.71,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather1,,CODE TABLE
+0-20000-0-43003,cloud_amount,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_amount,,CODE TABLE
+0-20000-0-43001,past_weather2,19.96,72.71,2026-09-20T03:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,past_weather2,,CODE TABLE
+0-20000-0-43003,cloud_type,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,cloud_type,,CODE TABLE
+0-20000-0-43001,total_precipitation_or_total_water_equivalent,19.96,72.71,2026-09-20T08:00:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,total_precipitation_or_total_water_equivalent,0.0,kg m-2
+0-20000-0-43003,height_of_base_of_cloud,19.11,72.85,2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,height_of_base_of_cloud,600.0,m
+0-20000-0-43001,wind_direction,19.96,72.71,2026-09-20T08:50:00Z/2026-09-20T09:00:00Z,2026-09-20T09:00:00Z,wind_direction,320.0,deg

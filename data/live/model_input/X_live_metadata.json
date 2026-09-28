@@ -1,0 +1,34 @@
+{
+  "input_dates": [
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+  ],
+  "input_start_date": "2026-09-14",
+  "input_end_date": "2026-09-20",
+  "prediction_date": "2026-09-21",
+  "input_shape": [
+    7,
+    65,
+    73,
+    10
+  ],
+  "features": [
+    "imr",
+    "pet",
+    "era5_temperature",
+    "era5_dewpoint",
+    "era5_wind_speed",
+    "era5_pressure",
+    "era5_rainfall",
+    "imd_max_temperature",
+    "imd_min_temperature",
+    "imd_rainfall"
+  ],
+  "spatial_cells": 2379,
+  "normalization": "frozen_training_statistics"
+}
