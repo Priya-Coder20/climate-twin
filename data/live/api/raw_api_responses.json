@@ -1,0 +1,652 @@
+{
+  "Mumbai": {
+    "latitude": 19.086115,
+    "longitude": 72.85291,
+    "generationtime_ms": 0.0642538070678711,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 6.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        37.8,
+        37.8,
+        36.9,
+        37.9,
+        38.2,
+        37.6,
+        37.6,
+        36.4,
+        33.0,
+        34.4
+      ],
+      "temperature_2m_min": [
+        28.0,
+        28.5,
+        28.4,
+        27.5,
+        27.4,
+        27.3,
+        27.6,
+        27.3,
+        26.9,
+        26.7
+      ],
+      "precipitation_sum": [
+        0.0,
+        1.4,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.3,
+        0.4,
+        0.1
+      ]
+    }
+  },
+  "Pune": {
+    "latitude": 18.523726,
+    "longitude": 73.86876,
+    "generationtime_ms": 0.06341934204101562,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 561.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        34.2,
+        33.7,
+        34.0,
+        33.9,
+        33.6,
+        33.0,
+        33.0,
+        33.6,
+        33.9,
+        33.7
+      ],
+      "temperature_2m_min": [
+        23.5,
+        24.4,
+        23.9,
+        23.2,
+        23.3,
+        23.0,
+        22.5,
+        22.4,
+        22.4,
+        22.2
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "Nashik": {
+    "latitude": 19.999998,
+    "longitude": 73.8,
+    "generationtime_ms": 0.7345676422119141,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 584.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        33.6,
+        33.4,
+        33.1,
+        32.9,
+        32.9,
+        32.6,
+        32.4,
+        32.9,
+        33.3,
+        32.7
+      ],
+      "temperature_2m_min": [
+        22.6,
+        23.0,
+        22.7,
+        22.3,
+        21.5,
+        22.2,
+        21.8,
+        21.7,
+        22.3,
+        22.3
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "Nagpur": {
+    "latitude": 21.124779,
+    "longitude": 79.11585,
+    "generationtime_ms": 0.072479248046875,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 311.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        36.0,
+        36.2,
+        34.9,
+        34.7,
+        32.9,
+        32.8,
+        33.3,
+        33.9,
+        33.6,
+        33.4
+      ],
+      "temperature_2m_min": [
+        25.4,
+        25.4,
+        24.0,
+        24.8,
+        24.0,
+        24.8,
+        23.5,
+        24.4,
+        24.7,
+        25.1
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.0
+      ]
+    }
+  },
+  "Chhatrapati_Sambhajinagar": {
+    "latitude": 19.859402,
+    "longitude": 75.35928,
+    "generationtime_ms": 2.1811723709106445,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 593.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        34.7,
+        34.2,
+        33.6,
+        33.7,
+        33.3,
+        32.6,
+        32.3,
+        33.6,
+        33.4,
+        33.0
+      ],
+      "temperature_2m_min": [
+        24.8,
+        25.6,
+        24.3,
+        23.8,
+        23.5,
+        23.4,
+        23.1,
+        23.9,
+        23.7,
+        24.0
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "Kolhapur": {
+    "latitude": 16.695957,
+    "longitude": 74.26934,
+    "generationtime_ms": 2.766728401184082,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 562.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        33.5,
+        33.3,
+        33.7,
+        33.7,
+        33.6,
+        33.2,
+        33.4,
+        34.4,
+        31.8,
+        31.1
+      ],
+      "temperature_2m_min": [
+        22.9,
+        22.2,
+        23.4,
+        23.5,
+        22.8,
+        23.9,
+        23.1,
+        22.6,
+        22.8,
+        22.2
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.7,
+        12.1,
+        0.0
+      ]
+    }
+  },
+  "Solapur": {
+    "latitude": 17.68014,
+    "longitude": 75.885765,
+    "generationtime_ms": 0.662684440612793,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 469.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        34.9,
+        34.6,
+        34.7,
+        34.8,
+        34.4,
+        33.5,
+        34.0,
+        34.3,
+        34.0,
+        34.2
+      ],
+      "temperature_2m_min": [
+        24.4,
+        24.9,
+        24.4,
+        24.3,
+        24.0,
+        24.0,
+        23.7,
+        25.9,
+        25.2,
+        26.0
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "Amravati": {
+    "latitude": 20.913883,
+    "longitude": 77.78116,
+    "generationtime_ms": 0.780940055847168,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 343.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        35.4,
+        35.2,
+        34.9,
+        34.3,
+        33.1,
+        32.9,
+        33.3,
+        33.8,
+        34.1,
+        33.4
+      ],
+      "temperature_2m_min": [
+        25.3,
+        25.8,
+        23.3,
+        24.2,
+        24.1,
+        24.1,
+        23.8,
+        23.5,
+        24.1,
+        24.8
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6
+      ]
+    }
+  },
+  "Nanded": {
+    "latitude": 19.156414,
+    "longitude": 77.28261,
+    "generationtime_ms": 0.06902217864990234,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 356.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        34.8,
+        34.7,
+        34.4,
+        34.3,
+        32.9,
+        33.0,
+        33.0,
+        33.6,
+        33.3,
+        34.0
+      ],
+      "temperature_2m_min": [
+        23.2,
+        23.9,
+        23.5,
+        23.6,
+        23.5,
+        23.4,
+        23.2,
+        24.4,
+        24.3,
+        24.7
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.1,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "Ratnagiri": {
+    "latitude": 16.977152,
+    "longitude": 73.346115,
+    "generationtime_ms": 1.0052919387817383,
+    "utc_offset_seconds": 19800,
+    "timezone": "Asia/Kolkata",
+    "timezone_abbreviation": "GMT+5:30",
+    "elevation": 74.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm"
+    },
+    "daily": {
+      "time": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "temperature_2m_max": [
+        34.9,
+        34.3,
+        35.5,
+        35.3,
+        35.5,
+        34.3,
+        34.7,
+        31.2,
+        29.9,
+        30.8
+      ],
+      "temperature_2m_min": [
+        26.3,
+        25.7,
+        25.8,
+        26.9,
+        26.0,
+        27.4,
+        26.2,
+        25.7,
+        25.6,
+        24.8
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.6,
+        0.8
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "retrieved_at": "2026-10-16T00:49:04.857364+05:30",
+  "india_today": "2026-10-16",
+  "source": "Open-Meteo Forecast API",
+  "locations_requested": 10,
+  "locations_succeeded": 10,
+  "locations_failed": [],
+  "record_count": 100,
+  "latest_returned_date": "2026-10-18",
+  "note": "Past dates are API estimates, not guaranteed station observations. Current-day values may be incomplete. Future dates are forecasts. These point samples are not the 65 x 73 model grid."
+}

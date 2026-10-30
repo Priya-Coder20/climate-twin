@@ -67,3 +67,37 @@ outputs/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+
+# Trained machine learning models
+models/
+
+
+# Old implementation and generated files
+archive/
+logs/
+outputs/
+.pytest_cache/
+.benchmarks/
+
+# Generated project structure reports
+backend_tree.txt
+frontend_tree.txt
+project_structure.txt
+
+**/.env
+
+# Exclude generated live climate data; retain selected API samples
+data/live/*
+!data/live/api/
+!data/live/api/**
+!data/live/dashboard/
+!data/live/dashboard/**
+
+# Exclude backup files
+*.bak

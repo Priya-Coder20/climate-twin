@@ -1,0 +1,94 @@
+import os
+import numpy as np
+import tensorflow as tf
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+
+DATA_DIR = r"data\processed\convlstm_data"
+MODEL_PATH = r"models\trained\temperature_convlstm.keras"
+
+X_test = np.load(
+    os.path.join(DATA_DIR, "X_test.npy")
+)
+
+Y_test = np.load(
+    os.path.join(DATA_DIR, "Y_test.npy")
+)
+
+target_mean = np.load(
+    os.path.join(DATA_DIR, "target_mean.npy")
+)
+
+target_std = np.load(
+    os.path.join(DATA_DIR, "target_std.npy")
+)
+
+usable_cells = np.load(
+    os.path.join(DATA_DIR, "usable_cells.npy")
+)
+
+model = tf.keras.models.load_model(
+    MODEL_PATH
+)
+
+prediction = model.predict(
+    X_test,
+    verbose=0
+)
+
+# Use only Tmax and Tmin statistics.
+prediction = (
+    prediction *
+    target_std[:2] +
+    target_mean[:2]
+)
+
+actual = (
+    Y_test[..., :2] *
+    target_std[:2] +
+    target_mean[:2]
+)
+
+prediction = prediction[:, :, usable_cells, :]
+actual = actual[:, :, usable_cells, :]
+
+target_names = [
+    "tmax",
+    "tmin"
+]
+
+for i, name in enumerate(target_names):
+
+    y_true = actual[:, :, :, i].reshape(-1)
+    y_pred = prediction[:, :, :, i].reshape(-1)
+
+    mask = (
+        np.isfinite(y_true) &
+        np.isfinite(y_pred)
+    )
+
+    y_true = y_true[mask]
+    y_pred = y_pred[mask]
+
+    mae = mean_absolute_error(
+        y_true,
+        y_pred
+    )
+
+    rmse = np.sqrt(
+        mean_squared_error(
+            y_true,
+            y_pred
+        )
+    )
+
+    r2 = r2_score(
+        y_true,
+        y_pred
+    )
+
+    print(
+        f"{name}: "
+        f"MAE={mae:.4f}, "
+        f"RMSE={rmse:.4f}, "
+        f"R2={r2:.4f}"
+    )
